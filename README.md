@@ -10,7 +10,7 @@ Formada em Análise e Desenvolvimento de Sistemas, procuro uma uma oportunidade 
 
 ### Habilidades
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF?style=for-the-badge&logo=javascript)![CSS](https://img.shields.io/badge/CSS-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF?style=for-the-badge&logo=javascript)
 ![CSS](https://img.shields.io/badge/CSS-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![HTML](https://img.shields.io/badge/HTML-FFF?style=for-the-badge&logo=html5)
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
